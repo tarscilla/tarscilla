@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao meu perfil 😁
+# Olá, me chamo Tarscilla 
+## Bem vindo ao meu perfil 💻
 
  <div>
    <a href="https://github.com/tarscilla">
@@ -17,8 +18,8 @@
   ### Me segue nas redes abaixo!
  
 <div> 
-  <a href="https://instagram.com/http_taci" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://https://www.linkedin.com/in/tarscilla-almeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/http_taci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http_taci" height="30" width="40" /></a>
+  <a href="https://twitter.com/tarscilla_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20220821125553" alt="tarscilla_" height="25" width="30" /></a>
  
   ![Snake animation](https://github.com/tarscilla/tarscilla/blob/output/github-contribution-grid-snake.svg)
 
