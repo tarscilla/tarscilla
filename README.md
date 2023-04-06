@@ -19,7 +19,6 @@
  
 <div> 
   <a href="https://instagram.com/http_taci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http_taci" height="30" width="40" /></a>
-  <a href="https://twitter.com/tarscilla_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20220821125553" alt="tarscilla_" height="25" width="30" /></a>
  
   ![Snake animation](https://github.com/tarscilla/tarscilla/blob/output/github-contribution-grid-snake.svg)
 
