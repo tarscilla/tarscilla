@@ -1,25 +1,6 @@
-# Olá, me chamo Tarscilla 
-## Bem vindo ao meu perfil 💻
+![](https://komarev.com/ghpvc/?username=renatabfs&color=lightgrey&label=Views&style=plastic)
 
- <div>
-   <a href="https://github.com/tarscilla">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarscilla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarscilla&layout=compact&langs_count=6&theme=tokyonight"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E3F2F7&center=true&vCenter=true&width=435&lines=%F0%9F%90%A8+Ol%C3%A1%2C+meu+nome+%C3%A9+Tarscilla!)](https://git.io/typing-svg)
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Me segue nas redes abaixo!
- 
-<div> 
-  <a href="https://instagram.com/http_taci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http_taci" height="30" width="40" /></a>
- 
-  ![Snake animation](https://github.com/tarscilla/tarscilla/blob/output/github-contribution-grid-snake.svg)
+<img height=350 align="right" src="https://github.com/tarscilla/tarscilla/assets/113654299/d15c9b14-ded1-44c3-a944-4e13ce74c0b3" />
 
-</div>
