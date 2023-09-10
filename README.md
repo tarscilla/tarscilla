@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E3F2F7&center=true&vCenter=true&width=435&lines=%F0%9F%90%A8+Ol%C3%A1%2C+meu+nome+%C3%A9+Tarscilla!)](https://git.io/typing-svg)
 
-<img height=400 align="right" src="https://github.com/tarscilla/tarscilla/assets/113654299/ac073158-0464-411f-8f64-7cf70435e00a"/>
+<img height=400 align="right" src="https://github.com/tarscilla/tarscilla/assets/113654299/682a2770-4d92-4eb7-b004-5b6b1eeaf073"/>
 
 ### 📖 Sobre mim
 
