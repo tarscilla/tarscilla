@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### 📝 Estudando 
 <img height="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript"/>
 <img height="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS"/>
-<img height="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python"
+<img height="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python"/>
 
 ### 💌 Redes ⤵️
 <a href="https://twitter.com/tarscilla_" alt="Twitter">
