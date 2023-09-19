@@ -8,8 +8,13 @@
 
 <section>
 <p align="justify">
-<!-- Adicionar texto aki -->
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Sou apaixonada por tecnologia e estou começando minha jornada na programação. Atualmente, estou participando do programa Oracle Next Education + Alura para aprender mais sobre esse emocionante mundo.
+
+Tenho a intenção de me especializar em Sistemas de Informação, pois acredito que é uma área fascinante e em constante evolução.
+
+Sou uma pessoa eclética, sempre em busca de novos conhecimentos e desafios. Acredito que a aprendizagem constante é a chave para o sucesso.
+
+Vamos aprender e criar juntos! 🚀
 </p>
 
 ### 💻 Skills 
