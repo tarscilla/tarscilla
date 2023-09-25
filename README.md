@@ -33,6 +33,9 @@ Vamos aprender e criar juntos! 🚀
 <a href="https://instagram.com/http_taci" alt="Instagram">
 <img height="25px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
+<a href="https://www.linkedin.com/in/tarscilla-almeida" alt="LinkedIn">
+<img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 ### 📊 Minhas Estatísticas 
 <img src="https://github-readme-stats.vercel.app/api?username=tarscilla&show_icons=true&theme=graywhite&layout=compact"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarscilla&theme=graywhite&layout=compact" />
