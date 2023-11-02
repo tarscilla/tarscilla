@@ -8,7 +8,7 @@
 
 <section>
 <p align="justify">
-Sou apaixonada por tecnologia e estou começando minha jornada na programação. Atualmente, estou participando do programa Oracle Next Education + Alura para aprender mais sobre esse emocionante mundo.
+Sou apaixonada por tecnologia e estou começando minha jornada na programação. Atualmente, estou aprofundando meus conhecimentos adquiridos no programa Oracle Next Education (ONE) Oracle + Alura para aprender cada vez mais sobre esse emocionante mundo.
 
 Tenho a intenção de me especializar em Sistemas de Informação, pois acredito que é uma área fascinante e em constante evolução.
 
