@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1BFFB&center=true&vCenter=true&width=435&lines=%F0%9F%90%A8+Ol%C3%A1%2C+meu+nome+%C3%A9+Tarscilla!)](https://git.io/typing-svg)
 
+<img height=350 align="right" src="https://github.com/user-attachments/assets/77f6da79-28cc-4b7b-8b36-fd8562fb84c5"/>
+
 ### 📖 Sobre mim
 
 <section>
