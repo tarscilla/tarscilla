@@ -9,11 +9,7 @@
 
 <section>
 <p align="justify">
-Sou apaixonada por tecnologia e estou iniciando minha jornada no mundo da programação. 
-
-Atualmente, curso Sistemas de Informação e acredito que a aprendizagem contínua é fundamental para o sucesso. Estou sempre em busca de novos conhecimentos e desafios, determinada a crescer e evoluir a cada passo. 
-
-Vamos aprender e criar juntos! 🚀
+Iniciando a carreira na área da programação, graduanda em Sistemas da Informação pela Universidade de Excelência do Estado da Bahia, tendo maior afinidade com front-end, e sendo apaixonada por tecnologia, estou aprimorando minhas habilidades para me tornar uma desenvolvedora.
 </p>
 
 
