@@ -9,7 +9,7 @@
 
 <section>
 <p align="justify">
-Iniciando a carreira na área da programação, graduanda em Sistemas da Informação pela Universidade de Excelência do Estado da Bahia, tendo maior afinidade com front-end, e sendo apaixonada por tecnologia, estou aprimorando minhas habilidades para me tornar uma desenvolvedora.
+Iniciando a carreira na área da programação, graduanda em Sistemas da Informação pela Universidade de Excelência (UNEX), tendo maior afinidade com Front-end. Sou apaixonada por tecnologia e estou aprimorando minhas habilidades para me tornar uma desenvolvedora.
 </p>
 
 
