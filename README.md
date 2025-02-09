@@ -17,13 +17,15 @@ Iniciando a carreira na área da programação, graduanda em Sistemas da Informa
 
 ![HTML5](https://img.shields.io/badge/HTML5-F1BFFB?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-F1BFFB?style=for-the-badge&logo=css3&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F1BFFB?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 ### 📝 Estudando
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F1BFFB?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-F1BFFB?style=for-the-badge&logo=python&logoColor=black)
 ![C](https://img.shields.io/badge/C-F1BFFB?style=for-the-badge&logo=c&logoColor=black)
+![React](https://img.shields.io/badge/react-F1BFFB?style=for-the-badge&logo=react&logoColor=black)
+
 
 ### 📱 Redes 
 
